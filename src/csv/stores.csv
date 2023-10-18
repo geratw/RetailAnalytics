@@ -1,0 +1,9 @@
+transaction_store_id,sku_id,sku_purchase_price,sku_retail_price
+1,1,100,150
+2,2,120,180
+3,3,80,120
+4,4,90,130
+5,5,200,300
+6,6,220,330
+7,7,150,220
+8,8,180,260

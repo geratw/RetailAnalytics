@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_surname,customer_primary_email,customer_primary_phone
+1,John,Doe,john.doe@example.com,+71234567890
+2,Jane,Smith,jane.smith@example.com,+71234567891
+3,Alice,Johnson,alice.johnson@example.com,+71234567892
+4,Bob,Brown,bob.brown@example.com,+71234567893
+5,Mike,Lee,mike.lee@example.com,+71234567894
+6,Emily,Wilson,emily.wilson@example.com,+71234567895
+7,David,Anderson,david.anderson@example.com,+71234567896
+8,Sarah,Taylor,sarah.taylor@example.com,+71234567897
+9,Michael,Clark,michael.clark@example.com,+71234567898
+10,Linda,Wang,linda.wang@example.com,+71234567899
